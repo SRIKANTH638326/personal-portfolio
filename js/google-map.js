@@ -59,10 +59,5 @@ function init() {
     }
     
 }
-google.maps.event.addDomListener(window, 'load', init);
-<script
-    src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY_HERE&callback=init"
-    async defer></script>
-
 
     
